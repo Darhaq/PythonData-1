@@ -3,7 +3,9 @@
 
 def main():
     # Enter you solution here
-
+    # print()
+    country = input("What country are you from? ")
+    print("I have heard that", country, "is a beautiful country.")
 
 if __name__ == "__main__":
     main()
